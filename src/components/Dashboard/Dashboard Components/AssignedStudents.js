@@ -76,7 +76,7 @@ export default function AssignedStudents() {
       <div className="title-cont">
         <div className="title">
           <h4 className='mb4'>Students Assigned To You (Progress %):</h4>
-          <h1>15 Students</h1>
+          <h1>11 Students</h1>
         </div>
 
       </div>
