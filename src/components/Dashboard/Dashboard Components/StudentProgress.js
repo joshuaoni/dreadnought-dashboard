@@ -27,7 +27,7 @@ export default function StudentProgress() {
     <div className='studentProgress card-style'>
       <div className="title-cont">
         <div className="title">
-          <h4 className='mb2'>Students' Task Progress Average</h4>
+          <h4 className='mb2'>Students' Task Completion Average</h4>
           <h1>74%</h1>
         </div>
       </div>
