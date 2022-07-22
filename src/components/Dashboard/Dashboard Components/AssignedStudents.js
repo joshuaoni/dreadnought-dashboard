@@ -16,12 +16,12 @@ export default function AssignedStudents() {
   const students = [
     {
       name: "Ervin Howell",
-      progress: '100%',
+      progress: '100',
       image: img4,
     },
     {
       name: "Chelsey Dietrich",
-      progress: '100%',
+      progress: '100',
       image: img6,
     },
     {
