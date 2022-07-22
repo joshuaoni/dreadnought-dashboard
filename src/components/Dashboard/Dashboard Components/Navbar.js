@@ -8,7 +8,7 @@ export default function Navbar() {
       <div className='flex'>
         <h2>Overview</h2>
         <h2>|</h2>
-        <Link to='/students'><button className='btn'><h2> User List</h2></button></Link>
+        <Link to='/students'><button className='btn'><h2> Students List</h2></button></Link>
       </div>
       <div className='timeline'>
         <span>Last 20 Days</span>
